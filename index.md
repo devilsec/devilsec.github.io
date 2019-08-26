@@ -18,7 +18,7 @@ Meeting Times :      Fridays 4:15-5:15 PM, BYAC 110
 
 # Events
 <p align="center">
-<iframe src="https://calendar.google.com/calendar/embed?src=liolgsa8hq89g181v4fv2ga57g%40group.calendar.google.com&ctz=America%2FPhoenix" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe></iframe></p>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%237CB342&amp;ctz=America%2FPhoenix&amp;src=bGlvbGdzYThocTg5ZzE4MXY0ZnYyZ2E1N2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%237986CB&amp;color=%234285F4&amp;showTabs=0&amp;showPrint=0&amp;showDate=1&amp;showNav=0&amp;title=DevilSec" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe></p>
 ***
 <br>
 # Videos

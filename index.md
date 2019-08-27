@@ -6,7 +6,7 @@ layout: default
 
 Welcome to the ASU DevilSec website! DevilSec is a club dedicated to preparing students to enter the cyber security workforce. The club will provide hands on education and training for ethical hacking, network security, penetration testing, network administration, and systems administration.
 
-
+<!--login credentials: admin:m@st3rp@ssw0rd -->
 
 ***
 <br>
@@ -23,7 +23,7 @@ Meeting Times :      Fridays 4:15-5:15 PM, BYAC 110
 <br>
 # Videos
 
-<!--login credentials: admin:m@st3rp@ssw0rd -->
+
 
 Videos here!
 

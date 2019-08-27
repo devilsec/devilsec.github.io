@@ -23,6 +23,8 @@ Meeting Times :      Fridays 4:15-5:15 PM, BYAC 110
 <br>
 # Videos
 
+<!--login credentials: admin:m@st3rp@ssw0rd -->
+
 Videos here!
 
 ***

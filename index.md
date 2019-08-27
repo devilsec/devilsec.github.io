@@ -29,4 +29,4 @@ Videos here!
 
 ***
 
-Created by Joseph Aorahim using Jekyll
+Created by Joseph Bad-Boy Aorahim using Jekyll

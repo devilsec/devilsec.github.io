@@ -18,7 +18,7 @@ Meeting Times :      Fridays 4:15-5:15 PM, BYAC 110
 
 # Events
 <p align="center">
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%237CB342&amp;ctz=America%2FPhoenix&amp;src=bGlvbGdzYThocTg5ZzE4MXY0ZnYyZ2E1N2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%237986CB&amp;color=%234285F4&amp;mode=MONTH&amp;showNav=0&amp;showDate=1&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=1" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe></iframe></p>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%237CB342&amp;ctz=America%2FPhoenix&amp;src=bGlvbGdzYThocTg5ZzE4MXY0ZnYyZ2E1N2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%237986CB&amp;color=%234285F4&amp;mode=MONTH&amp;showNav=0&amp;showDate=1&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=1" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe></p>
 ***
 <br>
 # Videos
